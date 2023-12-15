@@ -1,15 +1,14 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ayaz Ullah Burki</h1>
 <h3 align="center">I am Ayaz and experienced developer having years of experience in this sh*t.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazullahburki2021&label=Profile%20views&color=0e75b6&style=flat" alt="ayazullahburki2021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=megeniux&label=Profile%20views&color=0e75b6&style=flat" alt="megeniux" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayazullahburki2021&theme=" alt="ayazullahburki2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megeniux&theme=dark_lover" alt="megeniux" /></a> </p>
 
 - 💬 Ask me about **React, Javascript, Node etc**
 - 📫 How to reach me **ayazullahburki@gmail.com**
 - ⚡ Fun fact **Most of the times your tongue rest at the top or your mouth!!!**
 
-<div> <a href="https://github.com/ayazullahburki2021" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/megeniux" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:ayazullahburki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,20 +43,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ayazullahburki2021&show_icons=true&locale=en&theme=dark" alt="ayazullahburki2021" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megeniux&layout=compact&theme=dark" alt=megeniux />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayazullahburki2021&theme=dark" alt="ayazullahburki2021" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=megeniux&show_icons=true&locale=en&theme=dark" alt="megeniux" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=megeniux&theme=dark" alt="megeniux" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/ayazullahburki2021">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayazullahburki2021&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayazullahburki2021&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayazullahburki2021&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayazullahburki2021&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazullahburki2021&theme=2077" height="180em" />
+<a href="https://github.com/megeniux">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=megeniux&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megeniux&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=megeniux&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=megeniux&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megeniux&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayazullahburki2021&theme=default"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
