@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaz Ullah Burki</h1>
-<h3 align="center">I am Ayaz and experienced developer having years of experience in this sh*t.</h3>
+<h3 align="center">I am Ayaz an experienced developer with having years of experience in designing and development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megeniux&label=Profile%20views&color=0e75b6&style=flat" alt="megeniux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megeniux&theme=dark_lover" alt="megeniux" /></a> </p>
